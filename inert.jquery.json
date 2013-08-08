@@ -1,0 +1,24 @@
+{
+  "name":"inert",
+  "title":"HTML.next-inert",
+  "version":"1.0.0",
+  "licenses":[
+    {"type":"CC BY 3.0","url":"http://creativecommons.org/licenses/by/3.0/"}
+  ],
+  "dependencies":{
+    "jquery":">=1.7.2"
+  },
+  "keywords":[
+    "inert",
+    "disable",
+    "form submission"
+  ],
+  "homepage":"https://github.com/YodasWs/HTML.next-inert",
+  "docs":"https://github.com/YodasWs/HTML.next-inert",
+  "bugs":"https://github.com/YodasWs/HTML.next-inert/issues",
+  "author":{
+    "name":"Sam Grundman",
+    "email":"samuel@yodas.ws",
+    "url":"http://yodas.ws"
+  }
+}
